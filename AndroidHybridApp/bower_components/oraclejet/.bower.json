@@ -1,0 +1,34 @@
+{
+  "name": "oraclejet",
+  "description": "Oracle JET distribution",
+  "version": "0.0.1",
+  "authors": [
+    "Oracle"
+  ],
+  "license": "UPL",
+  "homepage": "http://oraclejet.org",
+  "moduleType": [],
+  "ignore": [
+    "samples"
+  ],
+  "main": [],
+  "dependencies": {
+    "es6-promise": "1.0.0",
+    "hammerjs": "2.0.4",
+    "jquery": "2.1.3",
+    "jquery-ui": "1.11.4",
+    "js-signals": "1.0.0",
+    "knockout": "3.4.0",
+    "requirejs": "2.1.16",
+    "text": "2.0.12"
+  },
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "2a6c58f8eaccfcb06648a8729ded552fa9d35c72"
+  },
+  "_source": "https://github.com/oracle/oraclejet.git",
+  "_target": "0.0.1",
+  "_originalSource": "oraclejet"
+}

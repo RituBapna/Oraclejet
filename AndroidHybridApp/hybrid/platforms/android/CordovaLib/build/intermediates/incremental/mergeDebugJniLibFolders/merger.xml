@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Jet_Tooling_App_2016\navlisttest\hybrid\platforms\android\CordovaLib\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Jet_Tooling_App_2016\navlisttest\hybrid\platforms\android\CordovaLib\src\debug\jniLibs"/></dataSet></merger>
